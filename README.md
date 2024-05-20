@@ -54,8 +54,11 @@ Frequency Range: Below 3 Hz to 30 Hz
 Usage:
 
 Military and defense for communication with submarines.
+
 Scientific research, particularly in geophysics and environmental sciences.
+
 Power transmission through the Earth for specialized applications.
+
 
 ## Very Low Frequency (VLF):
 
@@ -64,9 +67,13 @@ Frequency Range: 3 kHz to 30 kHz
 Usage:
 
 Military and defense for long-range communication with submarines.
+
 Time signals and long-range navigation systems.
+
 Scientific research in geophysics and atmospheric studies.
+
 Certain industrial applications for remote sensing and communication.
+
 
 ## Low Frequency (LF):
 
@@ -75,9 +82,13 @@ Frequency Range: 30 kHz to 300 kHz
 Usage:
 
 AM (Amplitude Modulation) radio broadcasting.
+
 Navigation systems, including maritime navigation and some aviation systems.
+
 Time signal transmission for synchronization purposes.
+
 Some scientific research applications, particularly in ionospheric studies.
+
 
 ## Medium Frequency (MF):
 
@@ -86,8 +97,11 @@ Frequency Range: 300 kHz to 3 MHz
 Usage:
 
 AM radio broadcasting.
+
 Aviation communication, including navigational aids like Non-Directional Beacons (NDBs).
+
 Maritime communication, including ship-to-shore and ship-to-ship communication.
+
 
 ## High Frequency (HF):
 
@@ -96,9 +110,13 @@ Frequency Range: 3 MHz to 30 MHz
 Usage:
 
 Shortwave radio broadcasting, reaching global audiences.
+
 Amateur radio communication, allowing long-distance communication.
+
 Aviation and maritime communication for long-range and international flights/voyages.
+
 Military communication, particularly for long-range and beyond-line-of-sight communication.
+
 
 ## Very High Frequency (VHF):
 
@@ -107,10 +125,15 @@ Frequency Range: 30 MHz to 300 MHz
 Usage:
 
 FM (Frequency Modulation) radio broadcasting.
+
 Television broadcasting.
+
 Air traffic control and aircraft communication.
+
 Maritime communication, including ship-to-shore and ship-to-ship communication.
+
 Land mobile communication, including emergency services and public safety.
+
             
 ## Ultra High Frequency (UHF):
 
@@ -119,12 +142,19 @@ Frequency Range: 300 MHz to 3 GHz
 Usage:
 
 Television broadcasting, including digital terrestrial television.
+
 Cellular networks (e.g., 4G and 5G).
+
 Wi-Fi networks.
+
 Bluetooth communication.
+
 GPS (Global Positioning System).
+
 Satellite communication for both terrestrial and space applications.
+
 Radio astronomy for observing cosmic phenomena.
+
 
 ## Super High Frequency (SHF):
 
@@ -133,16 +163,25 @@ Frequency Range: 3 GHz to 30 GHz
 Usage:
 
 Satellite communication, including satellite television and internet services.
+
 Radar systems, including weather radar and air traffic control radar.
+
 Microwave links for point-to-point communication, such as backhaul links for cellular networks.
+
 Remote sensing applications, including earth observation and environmental monitoring.
+
 
 ## Extremely High Frequency (EHF):
 
 Frequency Range: 30 GHz to 300 GHz
 
 Usage:
+
 Millimeter-wave communication for high-speed data transmission, including future 5G and 6G networks.
+
 Radio astronomy for studying celestial objects and phenomena.
+
 Imaging applications, including airport security scanners and medical imaging devices.
+
 Short-range communication systems, such as automotive radars and wireless local area networks (Wi-Fi).
+
